@@ -1,5 +1,5 @@
 from . import blue
 
-@blue.route('/blue')
-def blue():
+@blue.route('/')
+def index():
 	return 'Blue!'
