@@ -1,6 +1,5 @@
 myapp/__init__.py
 myapp/models.py
-myapp/views.py
 myapp.egg-info/PKG-INFO
 myapp.egg-info/SOURCES.txt
 myapp.egg-info/dependency_links.txt
