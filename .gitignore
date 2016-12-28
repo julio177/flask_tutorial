@@ -1,2 +1,3 @@
 instance/
+myapp.egg-info/
 *.pyc
