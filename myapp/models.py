@@ -1,6 +1,5 @@
 from flask_sqlalchemy import SQLAlchemy
-from flask_security import SQLAlchemyUserDatastore, \
-    UserMixin, RoleMixin
+from flask_security import SQLAlchemyUserDatastore, UserMixin, RoleMixin
 
 db = SQLAlchemy()
 
